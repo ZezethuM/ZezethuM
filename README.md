@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZezethuM
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C# and PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zezethu15@gmail.com
 
